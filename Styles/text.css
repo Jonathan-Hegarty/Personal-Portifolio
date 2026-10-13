@@ -1,0 +1,90 @@
+.name{
+  font-size: 50px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+@media (min-width: 990px) {
+      .name {
+  font-size: 40px;
+  margin-left: 0px;
+      }
+    }
+
+
+    @media (min-width: 1500px) {
+      .name {
+  font-size: 70px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+      }
+    }
+.job-profile{
+  font-size: 22px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+@media (min-width: 990px) {
+      .job-profile {
+  font-size: 18px;
+  margin-left: 0px;
+      }
+    }
+    @media (min-width: 1500px) {
+      .job-profile {
+  font-size: 30px;
+      }
+    }
+.project-list{
+  font-size: 45px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight:50px;
+}
+.project-list-part{
+  font-size:25px;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-bottom: 5px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.project-list-download{
+  font-size:20px;
+  margin-top:0px;
+  margin-left: 40px;
+  color: rgba(0, 162, 255, 0.952);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+
+
+.contact-details{
+  font-size: 20px;
+  margin-top: 0px;
+  margin-left: 40px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: italic;
+}
+
+.contact-header{
+  margin-bottom: 3px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 30px;
+    margin-left: 40px;
+  font-style: bold;
+}
